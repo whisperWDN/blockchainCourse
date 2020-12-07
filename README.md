@@ -32,10 +32,11 @@
 创建文件夹规则为：
 
 ```shell
-├─finalWork #最后的大作业
-├─work1 #第一次作业
-├─work2 #第二次作业
-└─work3 #第三次作业
+├─linzepei
+    ├─finalWork #最后的大作业
+    ├─work1 #第一次作业
+    ├─work2 #第二次作业
+    └─work3 #第三次作业
 ```
 
 作业内容：
@@ -70,7 +71,7 @@ $ git checkout -b [你的学号]
 
 ![4](assets/4.png)
 
-4. 然后新建每次作业目录，按照`work1`/`work2`/`work3`/`finalWork`的方式进行创建：
+4. 然后新建每次作业目录，先创建你的名字的文件夹，如`linzepei`，然后按照`work1`/`work2`/`work3`/`finalWork`的方式进行创建：
 
 ![5](assets/5.png)
 
